@@ -34,6 +34,9 @@ The project utilizes publicly available datasets across different domains:
 3. ⚽ **Sports**  
    [FIFA World Cup 2022 Tweets](https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets)
 
+4. **GMB(Groningen Meaning Bank) corpus**
+   [Annotated Corpus for Named Entity Recognition](https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus)
+
 ---
 
 ## 🧪 Models & Techniques
