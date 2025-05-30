@@ -67,3 +67,17 @@ These metrics were computed for both development and unseen test sets to ensure 
 
 ### 📦 Dependencies
 Install required packages via cells in individual Jupyter Notebook
+
+---
+
+## 🙌 Acknowledgements
+
+This project was developed as part of a collaborative group effort.  
+We would like to thank:
+
+- The authors and curators of the Kaggle datasets used in this project  
+- The developers of open-source libraries including:
+  - [Hugging Face Transformers](https://huggingface.co/transformers/)
+  - [Scikit-learn](https://scikit-learn.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - and other NLP tooling that enabled our work
